@@ -19,7 +19,7 @@
 #     else:
 #         x = 5
 
-# 8 x = input('Enter and integer: ') #Enter and integer:
+# 8 x = input('Enter and integer: ') #str
 
 
 # 9 a = 5
